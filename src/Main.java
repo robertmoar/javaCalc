@@ -23,6 +23,6 @@ public class Main {
 
     public static void main(String[] args) {
         // here we invoque the calculator frame
-        calcFramePlus calc = new calcFramePlus();
+        new calcFramePlus();
     }
 }
